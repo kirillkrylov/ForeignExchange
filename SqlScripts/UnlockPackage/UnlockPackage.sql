@@ -1,0 +1,1 @@
+update SysPackage set Maintainer = 'Customer', IsLocked = 1, IsChanged = 0 where Name = 'ForeignExchange'

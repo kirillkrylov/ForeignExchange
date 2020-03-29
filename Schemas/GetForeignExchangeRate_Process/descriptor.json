@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "7f368bab-d76f-4f20-a82a-f0225af428da",
+    "Name": "GetForeignExchangeRate_Process",
+    "ModifiedOnUtc": "\/Date(1585479102000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Get Foreign Exchange Rate"
+  }
+}

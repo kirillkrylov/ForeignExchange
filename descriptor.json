@@ -3,8 +3,9 @@
     "UId": "ae0d38d0-83ad-47c1-bb9f-d3b7b959b362",
     "PackageVersion": "7.8.0",
     "Name": "ForeignExchange",
-    "ModifiedOnUtc": "\/Date(1585471437000)\/",
+    "ModifiedOnUtc": "\/Date(1585471784000)\/",
     "Maintainer": "Customer",
+    "Description": "https://github.com/kirillkrylov/ForeignExchange/blob/master/README.md",
     "DependsOn": [
       {
         "UId": "2fabaf6c-0f92-4530-aef8-40345c021da2",
