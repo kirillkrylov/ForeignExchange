@@ -2,6 +2,10 @@
 # Testing with Creatio - Video Lesson Project 
 
 Execute _"Get Foreign Exchange Rate"_ business process to obtain the exchange Rate
+[Download Package](https://github.com/kirillkrylov/ForeignExchange/releases/tag/1.0.0.0)
+
+
+
 
 <details>
   <summary>BankFactory</summary>
