@@ -1,10 +1,17 @@
 ﻿﻿﻿﻿[![Logo](https://www.creatio.com/sites/default/files/2019-10/creatio-main-logo.svg)](https://github.com/sindresorhus/awesome#readme)
 # Testing with Creatio - Video Lesson Project 
 
-Execute _"Get Foreign Exchange Rate"_ business process to obtain the exchange Rate
-[Download Package](https://github.com/kirillkrylov/ForeignExchange/releases/tag/1.0.0.0)
+Download [ForeignExchange.gz](https://github.com/kirillkrylov/ForeignExchange/releases/tag/1.0.0.0)<br/>
 
-
+- [ ] Execute _"Get Foreign Exchange Rate"_ business process to obtain the exchange Rate<br/>
+- [ ] Execute POST request to [Application URL:PORT]/0/rest/ExchangeRateWS/ExchangeRate with
+```json
+{
+	"bank": "c64cb3d6-3c87-4eb6-88ec-13d03ef5391e",
+	"transactionDate": "/Date(1585488997000)/",
+	"currency": "c0057119-53e6-df11-971b-001d60e938c6"
+}
+```
 
 
 <details>
